@@ -5,15 +5,15 @@
     "branch": "master"
   },
   "pull/gym": {
-    "script": "/srv/gym/blog/admin/fish.sh",
+    "script": "/srv/fish/gym/admin/fish.sh",
     "branch": "master"
   },
   "pull/reference": {
-    "script": "/srv/reference/blog/admin/fish.sh",
+    "script": "/srv/fish/reference/admin/fish.sh",
     "branch": "master"
   },
   "pull/staging": {
-    "script": "/srv/staging/blog/admin/fish.sh",
+    "script": "/srv/fish/staging/admin/fish.sh",
     "branch": "master"
   }
 }
