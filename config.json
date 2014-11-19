@@ -1,0 +1,19 @@
+{
+  "port": 6174,
+  "pull/blog": {
+    "script": "/srv/fish/blog/admin/fish.sh",
+    "branch": "master"
+  },
+  "pull/gym": {
+    "script": "/srv/gym/blog/admin/fish.sh",
+    "branch": "master"
+  },
+  "pull/reference": {
+    "script": "/srv/reference/blog/admin/fish.sh",
+    "branch": "master"
+  },
+  "pull/staging": {
+    "script": "/srv/staging/blog/admin/fish.sh",
+    "branch": "master"
+  }
+}

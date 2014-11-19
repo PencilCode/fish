@@ -1,0 +1,14 @@
+{
+  "name": "pencilcode-fish",
+  "version": "0.0.1",
+  "description": "Website code and config for pencilcode.net.",
+  "author": "Pencil Code",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PenciCode/fish.git"
+  },
+  "dependencies": {
+    "git-fish": "git://github.com/davidbau/node-git-fish.git#master"
+  }
+}
