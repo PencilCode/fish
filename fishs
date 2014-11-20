@@ -35,8 +35,7 @@ NODE_PATH="/usr/local/lib/node_modules"
 APPLICATION_PATH="/srv/fish/fish/index.js"
 PIDFILE="/var/run/fishs.pid"
 LOGFILE="/var/log/fishs/event.log"
-TOKEN=`cat /srv/fish/secret`
-OPTIONS="--config /srv/fish/fish/config.json --token $TOKEN"
+OPTIONS="--config /srv/fish/fish/config.json"
 APPUID="davidbau"
 
 # Forever settings to prevent the application spinning if it fails on launch.
