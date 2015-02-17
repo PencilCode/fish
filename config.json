@@ -9,7 +9,7 @@
     "branch": "master"
   },
   "pull/invent": {
-    "script": "/srv/fish/gym/admin/invent.sh",
+    "script": "/srv/fish/invent/admin/fish.sh",
     "branch": "master"
   },
   "pull/newgym": {
