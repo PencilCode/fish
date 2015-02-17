@@ -8,9 +8,21 @@
     "script": "/srv/fish/gym/admin/fish.sh",
     "branch": "master"
   },
+  "pull/invent": {
+    "script": "/srv/fish/gym/admin/invent.sh",
+    "branch": "master"
+  },
+  "pull/newgym": {
+    "script": "/srv/fish/newgym/admin/fish.sh",
+    "branch": "master"
+  },
   "pull/reference": {
     "script": "/srv/fish/reference/admin/fish.sh",
     "branch": "master"
+  },
+  "pull/experiment": {
+    "script": "/srv/fish/experiment/admin/fish.sh",
+    "branch": "experiment"
   },
   "pull/staging": {
     "script": "/srv/fish/staging/admin/fish.sh",
