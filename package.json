@@ -8,6 +8,9 @@
     "type": "git",
     "url": "git://github.com/PenciCode/fish.git"
   },
+  "scripts": {
+    "build": "echo OK"
+  },
   "dependencies": {
     "git-fish": "git://github.com/davidbau/node-git-fish.git#master"
   }
