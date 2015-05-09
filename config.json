@@ -27,5 +27,13 @@
   "pull/staging": {
     "script": "/srv/fish/staging/admin/fish.sh",
     "branch": "master"
+  },
+  "pull/xinan": {
+    "script": "/srv/fish/xinan/admin/fish.sh",
+    "branch": "visual-thumbnail"
+  },
+  "pull/dweintrop": {
+    "script": "/srv/fish/dweintrop/admin/fish.sh",
+    "branch": "nu-hybrid"
   }
 }
